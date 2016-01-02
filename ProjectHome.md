@@ -1,0 +1,1 @@
+The project aims at transforming SAP2000 model to OpenSees input file by means of python scripts.
